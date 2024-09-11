@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TUvalues"]
+	path = TUvalues
+	url = https://github.com/mariaguilleng/tuvalues
 [submodule "boostingDEA"]
 	path = boostingDEA
 	url = https://github.com/mariaguilleng/boostingdea
